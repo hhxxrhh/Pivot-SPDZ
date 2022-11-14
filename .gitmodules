@@ -3,4 +3,4 @@
 	url = https://github.com/mkskeller/SimpleOT
 [submodule "mpir"]
 	path = mpir
-	url = git://github.com/wbhart/mpir.git
+	url =git clone git@github.com:wbhart/mpir.git
